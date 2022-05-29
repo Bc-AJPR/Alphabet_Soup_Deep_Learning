@@ -12,10 +12,10 @@ Seeking accuracy of 75%  four models were run, changes in the number of neurons(
 These are the sets for each model:
 ### Original Model
 <p align="left">
-  <img src=".\Images\original_set.jpg" width="400"/>
+  <img src=".\Images\Original_set.jpg" width="400"/>
 </p>
 <p align="left">
-  <img src=".\Images\original_res.jpg" />
+  <img src=".\Images\Original_res.jpg" />
 </p>
 
 ### Optimization 1
